@@ -1,0 +1,13 @@
+C:\Users\samee\source\repos\tactactoeform\tactactoeform\bin\Debug\tactactoeform.exe.config
+C:\Users\samee\source\repos\tactactoeform\tactactoeform\bin\Debug\tactactoeform.exe
+C:\Users\samee\source\repos\tactactoeform\tactactoeform\bin\Debug\tactactoeform.pdb
+C:\Users\samee\source\repos\tactactoeform\tactactoeform\obj\Debug\tactactoeform.Form2.resources
+C:\Users\samee\source\repos\tactactoeform\tactactoeform\obj\Debug\tactactoeform.Form3.resources
+C:\Users\samee\source\repos\tactactoeform\tactactoeform\obj\Debug\tactactoeform.MainMenu.resources
+C:\Users\samee\source\repos\tactactoeform\tactactoeform\obj\Debug\tactactoeform.Properties.Resources.resources
+C:\Users\samee\source\repos\tactactoeform\tactactoeform\obj\Debug\BCSF18A525.csproj.GenerateResource.cache
+C:\Users\samee\source\repos\tactactoeform\tactactoeform\obj\Debug\tactactoeform.exe
+C:\Users\samee\source\repos\tactactoeform\tactactoeform\obj\Debug\tactactoeform.pdb
+C:\Users\samee\source\repos\tactactoeform\tactactoeform\obj\Debug\BCSF18A525.csprojAssemblyReference.cache
+C:\Users\samee\source\repos\tactactoeform\tactactoeform\obj\Debug\tactactoeform.grid3.resources
+C:\Users\samee\source\repos\tactactoeform\tactactoeform\obj\Debug\tactactoeform.grid6x6.resources
